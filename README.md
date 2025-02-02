@@ -18,3 +18,4 @@ Designing the chat application architecture with WebSocket and Socket.IO: Buildi
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/f0dce351-9b12-4b3f-9238-1105d8f6c461)
